@@ -6,7 +6,7 @@ Center for Instructional Design and Innovation - Utah State University
 * Supervised by Neal Legler, CIDI Director (neal.legler@usu.edu)
 * On request from Alisa Taylor, Instructional Designer & Neal Legler, CIDI Director
 
-This repository contains code which will return the corresponding Canvas IDs, given a list of A-numbers
+This repository contains code which will return the corresponding Canvas IDs, given a list of A-numbers.
 
 _Note: This program has only been tested on Macs up to this point. If you want to use this on another OS, you are welcome to try it and if there are issues please follow the Bug Report instructions at the bottom of this page to indicate your interest in better support for other Operating Systems._
 
