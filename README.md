@@ -2,9 +2,9 @@
 ### cidi-get-canvas-ids
 Center for Instructional Design and Innovation - Utah State University
 
-* Created by Emma Lynn (a02391851@usu.edu)
+* Created by Emma Lynn (e.lynn@usu.edu)
 * Supervised by Neal Legler, CIDI Director (neal.legler@usu.edu)
-* On request from Alisa Taylor, Instructional Designer & Neal Legler, CIDI Director
+* On request from Elisa Taylor, Instructional Designer & Neal Legler, CIDI Director
 
 This repository contains code which will return the corresponding Canvas IDs, given a list of A-numbers.
 
@@ -139,7 +139,7 @@ You can now return to the original instructions. Begin at the section on setting
 ## Bug Reports
 If something behaves unexpectedly, or you run into a problem with the program, please let me know.
 
-Send bug reports to a02391851@usu.edu with the subject line "Bug Report - Canvas User Info".
+Send bug reports to e.lynn@usu.edu with the subject line "Bug Report - Canvas User Info".
 
 Please include:
 * What you expected to happen
